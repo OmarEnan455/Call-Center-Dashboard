@@ -8,71 +8,103 @@ The dashboard helps monitor operational efficiency, agent performance, forecasti
 
 ---
 
+## Dashboard Snapshot
+
+![Executive Overview](Screenshots/02-executive-overview.png)
+
+---
+
 ## Dashboard Pages
 
 ### 1. Welcome Page
 
-Navigation page for easy access to all dashboard sections.
+![Welcome Page](Screenshots/01-welcome-page.png)
+
+Landing page designed to provide intuitive navigation across all dashboard sections.
+
+---
 
 ### 2. Executive Overview
 
-Provides a high-level view of key call center KPIs including:
+![Executive Overview](Screenshots/02-executive-overview.png)
 
-* Total Calls
-* Total Handled Calls
-* Service Level
-* Abandonment Rate
-* Forecast Accuracy
-* Average Speed of Answer (ASA)
+Provides a high-level overview of key call center KPIs including:
+
+- Total Calls
+- Service Level (SL)
+- Abandonment Rate
+- Forecast Accuracy
+- Average ASA
+
+Also includes trend analysis and forecasting performance comparison.
+
+---
 
 ### 3. Agent Performance
 
-Analyzes agent performance using:
+![Agent Performance](Screenshots/03-agent-performance.png)
 
-* Performance Score
-* Agent Ranking
-* Calls Handled
-* Service Level
-* Average ASA
-* Dynamic Best Agent Selection
+Analyzes agent productivity and service quality through:
+
+- Agent Ranking
+- Performance Score
+- Service Level by Agent
+- Average ASA
+- Calls Handled
+- Best Agent Identification
+
+---
 
 ### 4. Insights & Findings
 
-Highlights key business insights and recommendations based on the analysis.
+![Insights & Findings](Screenshots/04-insights-findings.png)
+
+Business insights and recommendations derived from the analysis:
+
+- Service Level exceeded target by 11.1%
+- Forecast Accuracy is below the desired target
+- Positive correlation between ASA and Call Abandonment
+- Recommendations to reduce waiting time and improve staffing efficiency
 
 ---
 
-## Key Insights
+## Key KPIs
 
-* Service Level exceeded the target and reached 91.1%.
-* Forecast Accuracy reached 60.3%, indicating opportunities for improvement.
-* Higher ASA is associated with higher call abandonment.
-* Maintaining ASA below 20 seconds may help reduce customer abandonment.
-* Top-performing and low-performing agents were identified using a custom Performance Score.
-
----
-
-## Tools Used
-
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
+- Total Calls
+- Service Level %
+- Abandonment Rate %
+- Forecast Accuracy %
+- Average Speed of Answer (ASA)
+- Calls Handled
+- Best Agent
+- Agent Performance Score
 
 ---
 
-## Skills Demonstrated
+## Tools & Skills Used
 
-* Data Cleaning
-* Data Transformation
-* KPI Design
-* DAX Measures
-* Dashboard Design
-* Business Analysis
-* Data Storytelling
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+- KPI Design
+- Business Insights & Recommendations
+
+---
+
+## Key Business Insight
+
+Analysis revealed a clear positive relationship between Average Speed of Answer (ASA) and Call Abandonment.
+
+As customer waiting time increases, the likelihood of abandoning the call also increases.
+
+The dashboard findings suggest maintaining ASA below 20 seconds to minimize abandonment rates and improve customer experience.
 
 ---
 
 ## Author
 
-Omar Enan
+**Omar Enan**
+
+Aspiring Data Analyst passionate about transforming data into actionable insights using Power BI, SQL, Python, and Data Analytics.
