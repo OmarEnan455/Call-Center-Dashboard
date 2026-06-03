@@ -55,7 +55,7 @@ Analyzes agent productivity and service quality through:
 
 ### 💡 Insights & Findings
 
-![Insights & Findings](Screenshot 2026-06-03 070559.png)
+![Insights & Findings](Screenshots/Screenshot%202026-06-03%20070559.png)
 
 Business insights and recommendations derived from the analysis:
 
